@@ -7,7 +7,7 @@ loginButton.addEventListener("click", (e) => {
     const password = loginForm.password.value;
 
     if (username === "person@email.com" && password === "123") {
-        window.location.replace("dogs.html");
+        location.href="dogs.html";
         
     }
 })
