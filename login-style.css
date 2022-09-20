@@ -10,7 +10,7 @@
 
 body{
     background-color: 	#f1beb0;
-    background-image: url("/img/paw-print.png");
+    background-image: url("paw-print.png");
     background-repeat: no-repeat;
     background-position: center;
     display: flex;
