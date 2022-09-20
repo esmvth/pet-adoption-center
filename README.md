@@ -8,4 +8,3 @@ A basic website for an adoption center.
 Enter using the following credentials
     Email: person@email.com
     Password: 123
-updated
